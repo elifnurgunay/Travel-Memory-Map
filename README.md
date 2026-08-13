@@ -1,6 +1,7 @@
 # 🌍 Travel Memory Map
 
-![Travel Memory Map](https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&q=80&w=2000&h=600)
+<img width="1418" height="832" alt="Ekran görüntüsü 2026-08-13 212828" src="https://github.com/user-attachments/assets/ddc08727-1439-4ed2-b9a8-00f3c150006c" />
+<img width="1458" height="401" alt="Ekran görüntüsü 2026-08-13 212835" src="https://github.com/user-attachments/assets/e12f6468-96f5-4cec-b85c-627ffd608741" />
 
 **Travel Memory Map**, kullanıcıların seyahat deneyimlerini belgelemelerine, görselleştirmelerine ve hatırlamalarına yardımcı olmak için tasarlanmış tam yığın (full-stack) bir web uygulamasıdır. Etkileşimli bir dünya haritası ile kullanıcılar seyahatlerini işaretleyebilir, fotoğraflar yükleyebilir ve son derece güvenli, güzel tasarlanmış bir arayüzde maceralarının dijital bir günlüğünü tutabilirler.
 
